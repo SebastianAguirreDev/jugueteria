@@ -182,7 +182,7 @@ body{
         }
     }
     .buscadorPrincipal{
-        background-color: var(--secondary-color);
+        background-color: var(--third-color-t);
         color:rgb(255, 255, 255);
         height: 50vh;
         display: flex;
@@ -395,6 +395,7 @@ body{
         }
         .buscadorPrincipal{
             height: 30vh;
+            background-color: var(--secondary-color);
             .tituloSection{
                 font-size: 1.6rem;
             }
@@ -839,7 +840,4 @@ hr{
     width: 80%;
     margin: 0 auto;
     margin-top: 40px;
-}
-.fa-solid fa-child {
-
 }

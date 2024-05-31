@@ -1,0 +1,17 @@
+.character {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    width: 200px;
+}
+.character img {
+    max-width: 100%;
+}
+.character h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+.character p {
+    margin: 5px 0;
+}
